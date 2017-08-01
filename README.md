@@ -1,10 +1,10 @@
-#My First Webpage
-##By Sean and David
+# My First Webpage
+## By Sean and David
 
-##Description
+## Description
 
-####We made this website to show what we learned on this first day of school at _Epicodus_.
+#### We made this website to show what we learned on this first day of school at _Epicodus_.
 
-##Technology used
+## Technology used
 
-####Only HTML   
+#### Only HTML   
